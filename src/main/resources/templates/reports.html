@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>Reports Page</title>
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <link href="airports.css" rel="stylesheet">
+</head>
+<body>
+<h1>Reports</h1>
+<div id="top-bottom-report">
+  <div>
+    <h2>Top Airports per country</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Country</th>
+          <th>Count</th>
+        </tr>
+      </thead>
+      <tbody>
+        <th:block th:each="top : ${reportTopBottom.top}">
+          <tr>
+            <td th:text="${top.name}"></td>
+            <td th:text="${top.count}"></td>
+          </tr>
+        </th:block>
+      </tbody>
+    </table>
+  </div>
+  <div>
+    <h2>Bottom Airports per country</h2>
+    <table>
+      <thead>
+      <tr>
+        <th>Country</th>
+        <th>Count</th>
+      </tr>
+      </thead>
+      <tbody>
+      <th:block th:each="bottom : ${reportTopBottom.bottom}">
+        <tr>
+          <td th:text="${bottom.name}"></td>
+          <td th:text="${bottom.count}"></td>
+        </tr>
+      </th:block>
+      </tbody>
+    </table>
+  </div>
+</div>
+<div id="runways-report">
+  <div>
+    <h2>Common Runways</h2>
+    <table>
+      <thead>
+      <tr>
+        <th>Runways</th>
+        <th>Count</th>
+      </tr>
+      </thead>
+      <tbody>
+      <th:block th:each="runway : ${reportRunways.runways}">
+        <tr>
+          <td th:text="${runway.name}"></td>
+          <td th:text="${runway.count}"></td>
+        </tr>
+      </th:block>
+      </tbody>
+    </table>
+  </div>
+</div>
+</body>
+</html>

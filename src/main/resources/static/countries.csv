@@ -28,11 +28,11 @@
 302624,"BN","Brunei","AS","http://en.wikipedia.org/wiki/Brunei",
 302790,"BO","Bolivia","SA","http://en.wikipedia.org/wiki/Bolivia",
 302724,"BQ","Caribbean Netherlands","NA","http://en.wikipedia.org/wiki/Caribbean_Netherlands",
-302791,"BR","Brazil","SA","http://en.wikipedia.org/wiki/Brazil","Brasil, Brasilian"
+302791,"BR","Brazil","SA","http://en.wikipedia.org/wiki/Brazil","Brasil;Brasilian"
 302728,"BS","Bahamas","NA","http://en.wikipedia.org/wiki/Bahamas",
 302625,"BT","Bhutan","AS","http://en.wikipedia.org/wiki/Bhutan",
 302560,"BW","Botswana","AF","http://en.wikipedia.org/wiki/Botswana",
-302678,"BY","Belarus","EU","http://en.wikipedia.org/wiki/Belarus","Belarussian, Беларусь"
+302678,"BY","Belarus","EU","http://en.wikipedia.org/wiki/Belarus","Belarussian;Беларусь"
 302729,"BZ","Belize","NA","http://en.wikipedia.org/wiki/Belize",
 302730,"CA","Canada","NA","http://en.wikipedia.org/wiki/Canada",
 302626,"CC","Cocos (Keeling) Islands","AS","http://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands",
@@ -173,7 +173,7 @@
 302798,"PE","Perú","SA","http://en.wikipedia.org/wiki/Perú",
 302777,"PF","French Polynesia","OC","http://en.wikipedia.org/wiki/French_Polynesia",
 302778,"PG","Papua New Guinea","OC","http://en.wikipedia.org/wiki/Papua_New_Guinea",
-302656,"PH","Philippines","AS","http://en.wikipedia.org/wiki/Philippines","Philippine, Phillipines Philipines"
+302656,"PH","Philippines","AS","http://en.wikipedia.org/wiki/Philippines","Philippine;Phillipines Philipines"
 302657,"PK","Pakistan","AS","http://en.wikipedia.org/wiki/Pakistan",
 302710,"PL","Poland","EU","http://en.wikipedia.org/wiki/Poland",
 302750,"PM","Saint Pierre and Miquelon","NA","http://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon",
@@ -184,10 +184,10 @@
 302780,"PW","Palau","OC","http://en.wikipedia.org/wiki/Palau",
 302799,"PY","Paraguay","SA","http://en.wikipedia.org/wiki/Paraguay",
 302659,"QA","Qatar","AS","http://en.wikipedia.org/wiki/Qatar",
-302594,"RE","Réunion","AF","http://en.wikipedia.org/wiki/Réunion","Île Bourbon, La Réunion"
+302594,"RE","Réunion","AF","http://en.wikipedia.org/wiki/Réunion","Île Bourbon;La Réunion"
 302712,"RO","Romania","EU","http://en.wikipedia.org/wiki/Romania",
 302713,"RS","Serbia","EU","http://en.wikipedia.org/wiki/Serbia","Serb"
-302714,"RU","Russia","EU","http://en.wikipedia.org/wiki/Russia","Soviet, Sovietskaya, Sovetskaya"
+302714,"RU","Russia","EU","http://en.wikipedia.org/wiki/Russia","Soviet;Sovietskaya, Sovetskaya"
 302595,"RW","Rwanda","AF","http://en.wikipedia.org/wiki/Rwanda",
 302660,"SA","Saudi Arabia","AS","http://en.wikipedia.org/wiki/Saudi_Arabia",
 302781,"SB","Solomon Islands","OC","http://en.wikipedia.org/wiki/Solomon_Islands",
@@ -205,7 +205,7 @@
 302800,"SR","Suriname","SA","http://en.wikipedia.org/wiki/Suriname",
 302614,"SS","South Sudan","AF","http://en.wikipedia.org/wiki/South_Sudan",
 302602,"ST","São Tomé and Principe","AF","http://en.wikipedia.org/wiki/São_Tomé_and_Principe",
-302752,"SV","El Salvador","NA","http://en.wikipedia.org/wiki/El_Salvador","Salvadorian, Salvadorean"
+302752,"SV","El Salvador","NA","http://en.wikipedia.org/wiki/El_Salvador","Salvadorian;Salvadorean"
 302761,"SX","Sint Maarten","NA","http://en.wikipedia.org/wiki/Sint_Maarten",
 302662,"SY","Syria","AS","http://en.wikipedia.org/wiki/Syria",
 302603,"SZ","Swaziland","AF","http://en.wikipedia.org/wiki/Swaziland",
@@ -213,7 +213,7 @@
 302604,"TD","Chad","AF","http://en.wikipedia.org/wiki/Chad",
 302617,"TF","French Southern Territories","AN","http://en.wikipedia.org/wiki/French_Southern_Territories",
 302605,"TG","Togo","AF","http://en.wikipedia.org/wiki/Togo",
-302663,"TH","Thailand","AS","http://en.wikipedia.org/wiki/Thailand","Siam, Siamese"
+302663,"TH","Thailand","AS","http://en.wikipedia.org/wiki/Thailand","Siam;Siamese"
 302664,"TJ","Tajikistan","AS","http://en.wikipedia.org/wiki/Tajikistan","Tajik"
 302782,"TK","Tokelau","OC","http://en.wikipedia.org/wiki/Tokelau",
 302665,"TL","Timor-Leste","AS","http://en.wikipedia.org/wiki/Timor-Leste","East Timor"
